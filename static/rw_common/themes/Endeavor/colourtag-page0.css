@@ -1,0 +1,176 @@
+.desktopScreenNavbar, nav ul ul, .mobileScreenNavbar, .mobileb, .navb {
+	background-color: #FFFFFF;
+}
+
+#lt, #lm, #lb {
+	background: #000000;
+}
+
+
+#sideTitle {
+	color: #FFFFFF;
+	}
+
+aside {
+	color: #373737;
+}
+
+#wrapper #titlelogo h1, #container header h1 {
+	color: #000066;
+	}
+
+a.social, a.social1 {
+	color: #FFFFFF!important;
+}
+
+a.social:hover, a.social1:hover {
+	color: #999999!important;
+}
+
+
+#wrapper nav ul li a, #container nav ul li a {
+	color: #000000;
+	}
+
+
+nav ul li a:hover, nav > ul > li#current > a, nav > ul > li > ul > li#current > a, nav > ul > li#currentAncestor > a, nav > ul > li > ul > li > ul > li#current > a, nav > ul > li > ul > li#currentAncestor > a, nav ul li ul li:hover:after   {
+	color: #000066;
+	
+}
+
+#extraContainer9 {
+	color: #FFFFFF;
+}
+
+#extraContainer9:after {
+	border-bottom-color: #FFFFFF;
+}
+
+#extraContainer8:after, .movie-page-title:after, .album-title:after  {
+	color: #DDDDDD;
+}
+
+
+.thumbnail-caption {
+	color: #373737;
+}
+
+nav ul li:hover:after, nav > ul > li#current:after, .banner-text:after, header nav > ul > li > a#currentAncestor::after, nav > ul > li > a#current:after, nav ul li a:hover:after, header nav > ul > li > a#currentAncestor::after {
+	border-bottom-color: #000066;
+}
+
+
+section, .album-description, .photo-background p.photo-caption, .photo-background p, p.photo-links a {
+	color: #373737;
+	}
+
+#footer {
+	color: #FFFFFF;
+	}
+
+#container h1, #container h2, #container h3, #container h4, #container h5,#container h6, .album-title, .movie-page-title, #padding .message-text, #extraContainer8 {
+	color: #373737;
+} 
+
+ #extraContainer2 h1, #extraContainer2 h2, #extraContainer2 h3, #extraContainer2 h4, #extraContainer2 h5, #extraContainer2 h6 {
+ 	color: #373737;
+ 	}
+
+#extraContainer3 h1, #extraContainer3 h2, #extraContainer3 h3, #extraContainer3 h4, #extraContainer3 h5, #extraContainer3 h6 {
+	color: #373737;
+	}
+
+#extraContainer4 h1, #extraContainer4 h2, #extraContainer4 h3, #extraContainer4 h4, #extraContainer4 h5, #extraContainer4 h6 {
+	color: #373737;
+	}
+
+#extraContainer5 h1, #extraContainer5 h2, #extraContainer5 h3, #extraContainer5 h4, #extraContainer5 h5, #extraContainer5 h6 {
+	color: #373737;
+	}
+
+#extraContainer6 h1, #extraContainer6 h2, #extraContainer6 h3, #extraContainer6 h4, #extraContainer6 h5, #extraContainer6 h6 {
+	color: #FFFFFF;
+	}
+
+
+
+aside, section #padding,  .photo-background, #container, html   {
+	background-color: #FFFFFF;
+	
+}
+
+footer {background-color: #000066;}
+
+#container a, #footer a {
+	color: #FF6600;
+}
+
+#extraContainer7 a, #extraContainer8 a {
+	color: #FF6600;
+}
+
+#container a:hover, #footer a:hover  {
+	color: #909090;
+}
+
+#extraContainer2 {
+	background-color: #DDDDDD;
+}
+
+#extraContainer3 {
+	background-color: #CCCCCC;
+}
+
+#extraContainer4 {
+	background-color: #BBBBBB;
+}
+
+#extraContainer5 {
+	background-color: #AAAAAA;
+}
+
+#extraContainer6 {
+	background-color: #999999;
+}
+
+
+.blog-entry{
+	border-bottom-color: #DDDDDD;
+	}
+	
+#blog-categories {
+	border-top-color: #DDDDDD;
+	}
+
+.thumbnail-frame, .movie-thumbnail-frame {
+	border-color: #DDDDDD;
+	}
+.form-input-field {
+	background: #333333;
+	}
+
+.form-input-button {
+	background: #EEEEEE;	
+	}
+
+
+form div label {
+	color: #373737;
+}
+
+.form-input-field {
+	color: #EEEEEE;
+}
+
+.form-input-button {
+	color: #EEEEEE;
+}
+
+
+@media only screen and (max-width: 960px) {
+nav {
+	background-color: #FFFFFF;
+}
+
+}
+
