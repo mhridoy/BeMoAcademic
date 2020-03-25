@@ -1,1 +1,2 @@
-web: gunicorn CCA.wsgi
+web: gunicorn CCA:CCD
+
