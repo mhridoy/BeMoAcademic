@@ -1,5 +1,6 @@
 from django.shortcuts import render
 from django.http import HttpResponse
+import requests
 from .models import AddMenuBar
 from .models import ChangeLogo
 from .models import MainTitle
@@ -16,3 +17,7 @@ def home(request):
 
     return render(request, "index.html", {'ques':ques,'mainT': mainT ,'logo': logo , 'post' : post , 'menu' : menu})
     #return render(request, "index.html", {'main': main ,'logo': logo })
+def index(request):
+    r = requests.get('http://httpbin.org/status/418')
+    print(r.text)
+    return HttpResponse('<pre>' + r.text + '</pre>')
