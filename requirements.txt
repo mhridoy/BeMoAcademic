@@ -4,7 +4,7 @@ chardet==3.0.4
 Django==3.0.4
 django-ckeditor==5.9.0
 django-js-asset==1.2.2
-django-suit==0.2.28
+-e git://github.com/darklow/django-suit.git@v2#egg=django-suit
 future==0.18.2
 gunicorn==20.0.4
 heroku==0.1.4
